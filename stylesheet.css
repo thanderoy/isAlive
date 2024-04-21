@@ -1,0 +1,7 @@
+.status-up {
+    background-image: url('icons/status_green_24dp.svg');
+}
+
+.status-down {
+    background-image: url('icons/status_red_24dp.svg');
+}
